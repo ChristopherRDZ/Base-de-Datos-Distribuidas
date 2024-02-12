@@ -1,0 +1,1 @@
+Primera practica en donde se hará una base de datos para simular Internet de las Cosas, en donde en las aulas hay sensores que se activarán automaticamente (como el aire acondicionado), por lo cual necesitamos un BD en donde guardemos toda la información necesaria para tener un registro de las operaciones que se llevarán a cabo.
