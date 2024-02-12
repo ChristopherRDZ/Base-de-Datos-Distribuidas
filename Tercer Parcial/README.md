@@ -1,1 +1,1 @@
-Aquí estarán todas las practicas del Tercel (y último :D) Parcial.
+Aquí estarán todas las practicas del Tercer (y último :D) Parcial.
